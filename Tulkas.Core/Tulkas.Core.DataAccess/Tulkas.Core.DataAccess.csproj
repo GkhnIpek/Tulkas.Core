@@ -1,0 +1,16 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>goky</Authors>
+    <Description>Entity Framework, UnitOfWork, Generic Repository</Description>
+    <PackageTags>Entity Framework, UnitOfWork, Generic Repository</PackageTags>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="3.1.5" />
+    <PackageReference Include="Tulkas.Core.Entities" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>

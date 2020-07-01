@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <Authors>goky</Authors>
+    <Company />
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Description>Generic Entity, Dto and user model</Description>
+    <RepositoryUrl>https://github.com/GkhnIpek/Tulkas.Core.git</RepositoryUrl>
+    <PackageTags>IEntity, IDto, Users</PackageTags>
+  </PropertyGroup>
+
+</Project>

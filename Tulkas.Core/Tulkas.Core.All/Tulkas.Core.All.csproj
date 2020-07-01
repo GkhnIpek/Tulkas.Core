@@ -1,0 +1,19 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <Authors>goky</Authors>
+    <Description>Tulkas Core All packages</Description>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Tulkas.Core.Aspects" Version="1.0.0" />
+    <PackageReference Include="Tulkas.Core.CrossCuttingConcerns" Version="1.0.0" />
+    <PackageReference Include="Tulkas.Core.DataAccess" Version="1.0.0" />
+    <PackageReference Include="Tulkas.Core.DependencyResolvers" Version="1.0.0" />
+    <PackageReference Include="Tulkas.Core.Entities" Version="1.0.0" />
+    <PackageReference Include="Tulkas.Core.Helpers" Version="1.0.0" />
+  </ItemGroup>
+
+</Project>
